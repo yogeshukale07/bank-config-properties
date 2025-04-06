@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Prod Card Support"
+  message: "Welcome to PRODUCTION Card Support"
   contactDetails:
     name: "Yogesh Ukale"
     email: "yogesh@easybankCardProdSupport.com"
