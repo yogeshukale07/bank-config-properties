@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Pro Uk bank"
+  message: "Welcome to PRODUCTION Uk bank"
   contactDetails:
     name: "Yogesh Ukale"
     email: "john@Prod.com"
