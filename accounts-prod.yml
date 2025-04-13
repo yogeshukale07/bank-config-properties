@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to PRODuction UK bank"
+  message: "Welcome to PRODUCTION UK bank"
   contactDetails:
     name: "Yogesh Ukale"
     email: "john@prod.com"
