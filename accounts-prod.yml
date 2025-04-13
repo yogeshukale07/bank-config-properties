@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to PRODUC UK bank"
+  message: "Welcome to PORI=== UK bank"
   contactDetails:
     name: "Yogesh Ukale"
     email: "john@prod.com"
