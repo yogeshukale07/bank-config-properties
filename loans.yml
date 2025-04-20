@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Local UK bank"
+  message: "Welcome to Local UK default bank 123"
   contactDetails:
     name: "Yogesh Ukale"
     email: "yogesh@easybankloansupport.com"
