@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to LocalHost Card Default Support"
+  message: "Welcome to LocalHost Card Default Support123"
   contactDetails:
     name: "Yogesh Ukale"
     email: "yogesh@easybankCardsupport.com"
