@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to UK bank"
+  message: "Welcome to UK PriBank"
   contactDetails:
     name: "Yogesh Ukale"
     email: "john@easybank.com"
